@@ -1,6 +1,6 @@
-# Fun wit Koa Framework
+# Fun with Koa Framework
 
 ## Intro
 
-Wanted to plat arounf the Koa framework to see what it's like to use it.
+Wanted to play around the Koa framework to see what it's like.
 You can view the Koa framework [here](https://koajs.com/)
